@@ -1,4 +1,4 @@
 mappings:
- - /content/pbakliwal/eds-crosswalk-source/:/
- - /content/pbakliwal/eds-crosswalk-source/metadata.json:/metadata.json
- - /content/pbakliwal/eds-crosswalk-source/redirects.json:/redirects.json
+ - /content/pbakliwal/new-demo/:/
+ - /content/pbakliwal/new-demo/metadata.json:/metadata.json
+ - /content/pbakliwal/new-demo/redirects.json:/redirects.json
